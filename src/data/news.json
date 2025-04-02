@@ -1,0 +1,92 @@
+{
+  "articles": [
+    {
+      "id": "1712044800000",
+      "title": "Global Climate Summit Reaches Historic Agreement",
+      "description": "World leaders commit to aggressive carbon reduction targets",
+      "content": "At the 2025 Global Climate Summit in Paris, over 150 countries signed a landmark agreement to cut carbon emissions by 50% by 2035. The deal includes funding for developing nations to transition to renewable energy, though critics argue enforcement mechanisms remain weak.",
+      "date": "2025-03-28T14:00:00.000Z",
+      "imageUrl": "https://picsum.photos/800/400?random=1"
+    },
+    {
+      "id": "1711958400000",
+      "title": "AI Breakthrough Enhances Medical Diagnostics",
+      "description": "New AI model detects cancer with unprecedented accuracy",
+      "content": "A team at Stanford University unveiled an AI system that identifies early-stage lung cancer in CT scans with 98% accuracy, surpassing human radiologists. The technology, set for clinical trials in late 2025, could save millions of lives annually.",
+      "date": "2025-03-27T09:30:00.000Z",
+      "imageUrl": "https://picsum.photos/800/400?random=2"
+    },
+    {
+      "id": "1711872000000",
+      "title": "SpaceX Launches First Crewed Mission to Mars Orbit",
+      "description": "Historic step toward human colonization of Mars",
+      "content": "SpaceX’s Starship carried a crew of six astronauts into Mars orbit today, marking the first human mission beyond the Moon. The team will spend 30 days conducting experiments before returning, paving the way for a planned 2030 landing.",
+      "date": "2025-03-26T12:15:00.000Z",
+      "imageUrl": "https://picsum.photos/800/400?random=3"
+    },
+    {
+      "id": "1711785600000",
+      "title": "EU Bans Single-Use Plastics Across Member States",
+      "description": "New law aims to reduce ocean pollution",
+      "content": "The European Union implemented a total ban on single-use plastics effective April 1, 2025. The legislation targets items like straws, cutlery, and packaging, with fines for non-compliance. Environmentalists hail it as a major victory.",
+      "date": "2025-03-25T08:00:00.000Z",
+      "imageUrl": "https://picsum.photos/800/400?random=4"
+    },
+    {
+      "id": "1711699200000",
+      "title": "China Unveils World’s Fastest High-Speed Train",
+      "description": "New maglev train reaches speeds of 600 km/h",
+      "content": "China’s latest maglev train, debuted in Shanghai, cuts travel time between major cities by half. The 600 km/h train uses magnetic levitation technology and is expected to boost economic growth in the region.",
+      "date": "2025-03-24T11:45:00.000Z",
+      "imageUrl": "https://picsum.photos/800/400?random=5"
+    },
+    {
+      "id": "1711612800000",
+      "title": "Massive Cyberattack Targets U.S. Financial Sector",
+      "description": "Hackers disrupt banking services nationwide",
+      "content": "A sophisticated cyberattack, attributed to a state-sponsored group, temporarily shut down online banking for millions of Americans. The FBI is investigating, and experts warn of escalating cyber threats in 2025.",
+      "date": "2025-03-23T16:20:00.000Z",
+      "imageUrl": "https://picsum.photos/800/400?random=6"
+    },
+    {
+      "id": "1711526400000",
+      "title": "Breakthrough in Fusion Energy Achieved",
+      "description": "Scientists produce net-positive fusion reaction",
+      "content": "A team at MIT announced a fusion reactor that produced more energy than it consumed for 10 seconds, a historic milestone. While commercial use is years away, this could signal the future of clean energy.",
+      "date": "2025-03-22T10:10:00.000Z",
+      "imageUrl": "https://picsum.photos/800/400?random=7"
+    },
+    {
+      "id": "1711440000000",
+      "title": "Amazon Rainforest Deforestation Hits Record Low",
+      "description": "Brazil’s new policies show promising results",
+      "content": "Deforestation in the Amazon dropped by 40% in 2024, the lowest in decades, thanks to stricter enforcement and international pressure. Conservationists remain cautious, citing illegal logging threats.",
+      "date": "2025-03-21T13:00:00.000Z",
+      "imageUrl": "https://picsum.photos/800/400?random=8"
+    },
+    {
+      "id": "1711353600000",
+      "title": "WHO Declares End to Latest Ebola Outbreak",
+      "description": "Swift response contains virus in Central Africa",
+      "content": "The World Health Organization declared the Ebola outbreak in the Democratic Republic of Congo officially over after 90 days with no new cases. Vaccines and rapid response teams were credited for the success.",
+      "date": "2025-03-20T09:15:00.000Z",
+      "imageUrl": "https://picsum.photos/800/400?random=9"
+    },
+    {
+      "id": "1711267200000",
+      "title": "Tesla Unveils Affordable Electric Truck",
+      "description": "New model targets mass-market adoption",
+      "content": "Tesla launched its long-awaited electric pickup truck, priced at $39,000, aiming to compete with traditional automakers. Pre-orders surged, signaling strong demand for sustainable transport options.",
+      "date": "2025-03-19T14:30:00.000Z",
+      "imageUrl": "https://picsum.photos/800/400?random=10"
+    },
+    {
+      "title": "hello",
+      "description": "fdsd",
+      "content": "xdfsd",
+      "imageUrl": "https://picsum.photos/800/400?random=99",
+      "id": "eb5bd56b43020aca440c1220c0b8b69c",
+      "date": "2025-04-02T15:12:19.050Z"
+    }
+  ]
+}
